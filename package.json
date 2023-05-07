@@ -1,6 +1,6 @@
 {
   "name": "jftwo-hash",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simple encryption and decryption functionality using the AES-256-CBC algorithm",
   "repository": {
     "type": "git",
